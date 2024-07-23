@@ -1,0 +1,11 @@
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+.env
+./config/config.js
